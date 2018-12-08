@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.jbnu.spring_board.command.BLIstCommand&apos; to &apos;BListCommand&apos;&#x0D;&#x0A;- Original project: &apos;spring_board&apos;&#x0D;&#x0A;- Original element: &apos;com.jbnu.spring_board.command.BLIstCommand&apos;&#x0D;&#x0A;- Renamed element: &apos;com.jbnu.spring_board.command.BListCommand&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BLIstCommand&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.jbnu.spring_board.command{BLIstCommand.java[BLIstCommand" matchStrategy="1" name="BListCommand" qualified="false" references="true" similarDeclarations="false" stamp="1543575182203" textual="false" version="1.0"/>
+</session>

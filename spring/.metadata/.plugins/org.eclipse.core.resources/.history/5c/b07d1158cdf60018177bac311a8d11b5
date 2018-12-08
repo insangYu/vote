@@ -1,0 +1,5 @@
+package com.bcvs.makevote.dao;
+
+public interface BoardDAO {
+
+}

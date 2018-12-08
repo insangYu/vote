@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;springMVCBoard&apos;" deleteContents="true" description="Delete resource &apos;springMVCBoard&apos;" element1="/springMVCBoard" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1544076666725"/>&#x0A;<refactoring comment="Delete resource &apos;BCVS&apos;" deleteContents="false" description="Delete resource &apos;BCVS&apos;" element1="/BCVS" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1544170553980"/>
+</session>

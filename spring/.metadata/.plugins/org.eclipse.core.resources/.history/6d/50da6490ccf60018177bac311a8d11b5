@@ -1,0 +1,5 @@
+package com.bcvs.makevote.domain;
+
+public class boardVO {
+
+}

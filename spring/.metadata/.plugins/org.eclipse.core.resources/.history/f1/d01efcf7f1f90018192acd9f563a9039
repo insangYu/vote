@@ -1,0 +1,5 @@
+package com.bcvs.makevote.service;
+
+public class BoardServiceImp {
+
+}

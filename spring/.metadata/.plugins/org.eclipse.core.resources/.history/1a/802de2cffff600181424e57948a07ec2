@@ -1,0 +1,5 @@
+package com.bcvs.makevote.controller;
+
+public class BoardController {
+
+}

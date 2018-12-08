@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="402" key="DIALOG_HEIGHT"/>
+		<item value="710" key="DIALOG_X_ORIGIN"/>
+		<item value="252" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\YooInSang\Desktop\spring_source\spring_lecture_20_sourcecode\springMVCBoard"/>
+			<item value="C:\Users\YooInSang\Desktop\project\BCVS"/>
+			<item value="C:\Users\YooInSang\Desktop\spring_source\spring_lecture_12_sourcecode\spring_12_1_ex1_springex"/>
+			<item value="C:\Users\YooInSang\Desktop\spring_source\spring_lecture_05_sourcecode\spring_5_1_ex1_springex"/>
+			<item value="C:\Users\YooInSang\Desktop\spring_source\spring_lecture_04_sourcecode"/>
+			<item value="C:\Users\YooInSang\Desktop\spring_source\spring_lecture_03_sourcecode\spring_3_1_ex2_springex"/>
+			<item value="C:\Users\YooInSang\Desktop\spring_source\spring_lecture_03_sourcecode\spring_3_1_ex1_springex"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+			<item value="C:\Users\YooInSang\Desktop\spring_source\spring_lecture_03_sourcecode\spring_3_1_ex2_springex\src\main\resources\applicationCTX.xml"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="com.springsource.sts.wizard.template" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.springframework.ide.eclipse.beans.ui.wizards.category"/>
+			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
+		</list>
+	</section>
+</section>

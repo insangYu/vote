@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Dec 08 16:56:35 KST 2018
+org.eclipse.jst.jee.server\:makeVote=C\:\\Program Files\\apache-tomcat-7.0.92-windows-x64\\apache-tomcat-7.0.92\\wtpwebapps\\makeVote
+org.eclipse.jst.jee.server\:BCVS=C\:\\Program Files\\apache-tomcat-7.0.92-windows-x64\\apache-tomcat-7.0.92\\wtpwebapps\\BCVS
+org.eclipse.jst.jee.server\:springMVCBoard=C\:\\Program Files\\apache-tomcat-7.0.92-windows-x64\\apache-tomcat-7.0.92\\wtpwebapps\\springMVCBoard
